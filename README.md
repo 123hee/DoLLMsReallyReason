@@ -13,7 +13,7 @@
 4. [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)（ICLR 2025）
 5. [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311)（ICLR 2025）
 6. [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580v2)（ICLR 2025）
-7. 1. [Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics](https://arxiv.org/abs/2410.21272)（ICLR 2025）
+7. [Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics](https://arxiv.org/abs/2410.21272)（ICLR 2025）
 
 ### 2023
 1. [Parrot Mind: Towards Explaining the Complex Task Reasoning of Pretrained Large Language Models with Template-Content Structure](https://arxiv.org/abs/2310.05452)（preprint）
