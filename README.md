@@ -17,3 +17,8 @@
 
 ### 2023
 1. [Parrot Mind: Towards Explaining the Complex Task Reasoning of Pretrained Large Language Models with Template-Content Structure](https://arxiv.org/abs/2310.05452)（preprint）
+
+### discussions
+
+1. [大型语言模型（LLM）真的没有逻辑推理能力吗？ - 知乎](https://www.zhihu.com/question/851979903)
+2. [目前的AI 到底是背出了答案，还是推理出了答案？ - 知乎](https://www.zhihu.com/question/1143876179/answer/11151436985)
