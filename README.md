@@ -3,6 +3,7 @@
 2. [MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations](https://arxiv.org/abs/2502.06453)（preprint）
 3. [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 4. [Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models](https://arxiv.org/abs/2502.20332)（preprint）
+5. [the-illusion-of-thinking](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 
 
 ### 2024
